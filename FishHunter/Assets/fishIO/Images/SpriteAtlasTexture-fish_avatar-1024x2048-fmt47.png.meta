@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 2e3fdc8a02badb145a1e8f6d5bb940e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3842499756159275440
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_0
+  - first:
+      213: 80970140409410188
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_1
+  - first:
+      213: 8206874677969078147
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_2
+  - first:
+      213: 7533185071160169359
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_3
+  - first:
+      213: -5819279344239327536
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_4
+  - first:
+      213: -5220092942044773701
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_5
+  - first:
+      213: -862564031196405447
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_6
+  - first:
+      213: -3933758539117875581
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_7
+  - first:
+      213: 8188124218617864245
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_8
+  - first:
+      213: -5273063654421777349
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_9
+  - first:
+      213: -861333941549662704
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_10
+  - first:
+      213: -3505327311976705351
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_11
+  - first:
+      213: 4492081751005058015
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_12
+  - first:
+      213: -7970410508321917054
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_13
+  - first:
+      213: 4759646860262564566
+    second: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1655
+        width: 331
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ee99884d2bcaac0800000000000000
+      internalID: -3842499756159275440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1576
+        width: 332
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c823488e9e9af1100800000000000000
+      internalID: 80970140409410188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1568
+        width: 350
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387ce78a90da4e170800000000000000
+      internalID: 8206874677969078147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1388
+        width: 341
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8317c1e8ef3b8860800000000000000
+      internalID: 7533185071160169359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1352
+        width: 414
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6c8dda444cd3fa0800000000000000
+      internalID: -5819279344239327536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1087
+        width: 327
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2c5ee50218e87b0800000000000000
+      internalID: -5220092942044773701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1087
+        width: 366
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931628c659e8704f0800000000000000
+      internalID: -862564031196405447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 340
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e28bb537b7869c0800000000000000
+      internalID: -3933758539117875581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 328
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ad73289f02a170800000000000000
+      internalID: 8188124218617864245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 785
+        width: 334
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34ba205b8052d6b0800000000000000
+      internalID: -5273063654421777349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 664
+        width: 355
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ef1fcf75deb04f0800000000000000
+      internalID: -861333941549662704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 510
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2572cb1639a5fc0800000000000000
+      internalID: -3505327311976705351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 453
+        width: 338
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3dbae6d84175e30800000000000000
+      internalID: 4492081751005058015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_13
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 330
+        width: 349
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2877e692fd9636190800000000000000
+      internalID: -7970410508321917054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-fish_avatar-1024x2048-fmt47_14
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 345
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e04a0a99ad0240800000000000000
+      internalID: 4759646860262564566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

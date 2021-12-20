@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  - Wepon
+  - Time
+  - Report
+  - Win
+  - Lose
+  - NameEnemy
+  - JSON
+  - Weponn
+  - RandomNames
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Action
+  - Enemy
+  - Item
+  - MiniMap
+  - Wepon
+  - effect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 240072451
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 1939265613
+    locked: 0
