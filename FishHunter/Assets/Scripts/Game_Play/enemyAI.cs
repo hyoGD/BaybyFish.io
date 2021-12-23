@@ -107,7 +107,7 @@ public class enemyAI : MonoBehaviour
         {
             ran1 = Random.Range(1.2f, 1.5f);
             float ran2 = ran1;
-            float ranW1 = ran1 / 2 + 1f;
+            float ranW1 = ran1 / 2 + 0.7f;
             float ranW2 = ran2;
 
             plSpine.transform.localScale = new Vector2(ran1, ran2);
