@@ -77,7 +77,11 @@
   </files>
   <settings>
     <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+<<<<<<< Updated upstream
     <setting name="bundleId" value="com.BaByFish.IO" />
+=======
+    <setting name="bundleId" value="com.GD99.BaByFish.IO" />
+>>>>>>> Stashed changes
     <setting name="explodeAars" value="True" />
     <setting name="gradleBuildEnabled" value="True" />
     <setting name="gradlePropertiesTemplateEnabled" value="False" />
